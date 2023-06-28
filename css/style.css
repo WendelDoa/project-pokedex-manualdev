@@ -52,7 +52,7 @@ main {
 .form {
     position: absolute;
     width: 65%;
-    top: 68%;
+    top: 65%;
     left: 13.5%;
 }
 
@@ -86,7 +86,7 @@ main {
     font-weight: 600;
     color: #3a444d;
     background-color: white;
-    box-shadow: -2px 3px 0 #222, -4px 6px 0 #000;
+    box-shadow: -2px 3px 0 #888, -4px 6px 0 #333;
     border-radius: 5px;
 }
 
